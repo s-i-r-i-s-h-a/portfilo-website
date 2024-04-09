@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Personal Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div style="text-align: center;">
+            <img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/61701b4e166c837543d8f0ce_2_How%20To%20a%20Create%20Personal%20Portfolio%20Website.png" alt="personal portfolio" width="550" height="400">
+        </div>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am Malavathu Sirisha. I am pursuing a Bachelor of Technology in Computer Science Engineering at KKR & KSR INSTITUTE OF TECHNOLOGY AND SCIENCES Guntur with a current CGPA of 8.47. I am currently working on a virtual internship and I have greatlearning certifications in a few fields.</p>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Documentation</li>
+                <li>Coding</li>
+                <li>Communication skills</li>
+                <li>Teamwork</li>
+                <li>Leadership</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1: pawfect</h3>
+                <p>I have done pawfect project at my college and won the second price.The project is all about monitoring pets health through sound Recognition.</p>
+                <div style="text-align: center;">
+                    <img src="C:\Users\siris\OneDrive\Pictures\Ai and Iot .jpg" alt="AI and IOT image" width="550" height="400">
+                </div>
+            </div>
+            <div class="project">
+                <h3>Project 2: medicine Remainder</h3>
+                <p>I have completed another project named medicine remainder .it will useful to the all people who will forget to take their medicine on the time.</p>
+                <div style="text-align: center;">
+                    <img src="C:\Users\siris\OneDrive\Pictures\android app certificate.jpg" alt="Medicine Remainder" width="550" height="400">
+                </div>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <form action="mailid:sirishamalavathu87@gmail.com" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="sirisha" required>
+                <br>
+                <label for="Email">Email</label>:</label>
+                <input type="text" id="Email" name="Email" required>
+                <br>
+                <label for="phone number">phone number:</label>
+                <input type="text" id="phone number" name="phone number" required>
+                <br>
+                
