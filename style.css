@@ -1,0 +1,175 @@
+
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Use a standard font family */
+    color: #333; /* Set text color to dark gray */
+}
+
+/* Set background gradient color */
+body {
+    background: linear-gradient(to bottom, #3498db, #e74c3c); /* Background gradient from blue to red */
+    background-attachment: fixed; /* Fixed background */
+    background-repeat: no-repeat; /* No background repetition */
+}
+
+/* Style the header */
+header {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to the header */
+}
+
+header h1 {
+    font-size: 36px;
+    color: white; /* Set header text color to white */
+}
+
+/* Underline your name */
+header h1 span {
+    text-decoration: underline;
+}
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Use a standard font family */
+    color: #333; /* Set text color to dark gray */
+}
+
+/* Set background gradient color */
+body {
+    background: linear-gradient(to bottom, #3498db, #e74c3c); /* Background gradient from blue to red */
+    background-attachment: fixed; /* Fixed background */
+    background-repeat: no-repeat; /* No background repetition */
+}
+
+/* Style the header */
+header {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to the header */
+}
+
+header h1 {
+    font-size: 36px;
+    color: white; /* Set header text color to white */
+}
+
+/* Underline your name */
+header h1 span {
+    text-decoration: underline;
+}
+
+header p {
+    font-size: 18px;
+    color: white; /* Set header paragraph text color to white */
+}
+
+/* Style sections */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to sections */
+    border-radius: 10px; /* Add rounded corners to sections */
+}
+
+section h2 {
+    font-size: 28px;
+    color: #333; /* Set section heading color to dark gray */
+}
+
+/* Style the list items */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style links */
+a {
+    text-decoration: none;
+    color: #0077FF;
+    transition: color 0.3s ease; /* Add smooth color transition on hover */
+}
+
+a:hover {
+    color: #ff6b6b; /* Change link color on hover */
+}
+
+/* Style the footer */
+footer {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    text-align: center;
+    padding: 10px 0;
+    color: white; /* Set footer text color to white */
+}
+
+/* Enable smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Make specific sections italic */
+#objective, #skills, #courses, #languages {
+    font-style: italic;
+}
+
+
+header p {
+    font-size: 18px;
+    color: white; /* Set header paragraph text color to white */
+}
+
+/* Style sections */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle shadow to sections */
+    border-radius: 10px; /* Add rounded corners to sections */
+}
+
+section h2 {
+    font-size: 28px;
+    color: #333; /* Set section heading color to dark gray */
+}
+
+/* Style the list items */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style links */
+a {
+    text-decoration: none;
+    color: #0077FF;
+    transition: color 0.3s ease; /* Add smooth color transition on hover */
+}
+
+a:hover {
+    color: #ff6b6b; /* Change link color on hover */
+}
+
+/* Style the footer */
+footer {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    text-align: center;
+    padding: 10px 0;
+    color: white; /* Set footer text color to white */
+}
+
+/* Enable smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Make specific sections italic */
+#objective, #skills, #courses, #languages {
+    font-style: italic;
+}
+
